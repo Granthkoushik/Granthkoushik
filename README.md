@@ -1,12 +1,32 @@
--  Hi, I’m @Granthkoushik
--  I’m interested in cyber security, and IoT projects
--  I’m currently working on a camera project 
--  I’m looking to collaborate on my interest related things
--  email - granthkoushik1@gmail.com
-- phone no. - 78800 19283 
-- Fun fact: enrolled in CEH v12 and HST 2024 ( organized by IIT Mandi)
+# Hi, I'm Granth Koushik 👋
 
-<!---
-Granthkoushik/Granthkoushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a BCA student passionate about building software with AI, automation, cybersecurity, IoT, and intelligent systems.
+
+## 🚀 What I'm Working On
+
+* Building AI-powered applications and automation tools
+* Developing intelligent software systems
+* Learning modern development workflows and AI-assisted engineering
+
+## 🛠️ Interests
+
+* Artificial Intelligence
+* Cybersecurity
+* Automation
+* IoT
+* Robotics
+* Full-Stack Development
+
+## 🤝 Open to Collaborate
+
+I'm open to collaborating on AI, automation, cybersecurity, IoT, and open-source projects.
+
+## 📫 Contact
+
+* **Email:** [granthkoushik1@gmail.com](mailto:granthkoushik1@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/granth-koushik-7bb5ba37b
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into working projects and believe the best way to learn is by building.
+

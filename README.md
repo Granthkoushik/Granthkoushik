@@ -1,7 +1,6 @@
-[README(9).md](https://github.com/user-attachments/files/32251909/README.9.md)
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Granth Koushik — Building Intelligent Systems">
+<img src="./image.svg" width="100%" alt="Granth Koushik — Building Intelligent Systems">
 
 <br><br>
 
@@ -13,119 +12,123 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Granthkoushik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/granth-koushik-7bb5ba37b)
-[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:granthkoushik1@gmail.com)
+<a href="https://github.com/Granthkoushik">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/granth-koushik-7bb5ba37b">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:granthkoushik1@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
 ---
 
-## `> WHO_AM_I`
+# `> WHO_AM_I`
 
-I'm a BCA student and builder focused on turning ambitious ideas into working systems.
+I'm **Granth Koushik**, a BCA student and builder focused on turning ambitious ideas into working systems.
 
-I like working at the intersection of **AI, software, automation, robotics and real-world hardware** — from intelligent desktop agents to computer-vision systems and robotic interfaces.
+I enjoy building at the intersection of:
 
-```text
-ideas → prototypes → systems → impact
+**Artificial Intelligence · Automation · Robotics · Computer Vision · IoT · Software**
 
-const future = build();
-```
+My approach is simple:
 
----
+> **Don't just learn technology. Build something with it.**
 
-## `> CURRENTLY_BUILDING`
-
-| Project | What it is |
-|---|---|
-| 🤖 **Avatar** | A personal AI agent ecosystem designed to observe, reason, remember and operate across devices. |
-| 🧠 **Avatar Code** | An intelligent, always-on code reviewer that understands projects, detects issues and learns from coding history. |
-| 👁️ **VisionarEYE** | A camera-based driver-safety system combining drowsiness detection, crash detection, GPS and emergency alerts. |
-| 🦾 **DUM-E** | A vision-driven robotics project exploring gesture control, inverse kinematics and human–robot interaction. |
+I like taking an idea from a rough concept → prototype → working system → something people can actually use.
 
 ---
 
-## `> WHAT_I_WORK_WITH`
+# `> CURRENTLY_BUILDING`
 
-**AI / ML**
+<table>
+<tr>
 
-`Python` `Gemini` `Ollama` `MediaPipe` `OpenCV` `TensorFlow`
+<td width="50%">
 
-**Engineering**
+### 🤖 Avatar
 
-`FastAPI` `React` `TypeScript` `Flutter` `SQLite` `Git` `Linux`
+**Personal AI Agent Ecosystem**
 
-**Hardware / Robotics**
+An AI ecosystem designed to understand context, use tools, interact with computers, maintain useful memory, and eventually connect the digital world with physical devices.
 
-`Raspberry Pi` `ESP32` `Arduino` `Computer Vision` `Robotics` `IoT`
+**Focus:** AI Agents · Automation · Memory · Computer Interaction
+
+</td>
+
+<td width="50%">
+
+### 🧠 Avatar Code
+
+**24/7 Intelligent Code Reviewer**
+
+An intelligent code-review system that continuously understands projects, detects bugs and quality issues, analyzes codebases, and provides actionable fixes.
+
+**Focus:** Code Intelligence · AI Review · OCR · Project Understanding
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 👁️ VisionarEYE
+
+**AI-Powered Driver Safety**
+
+A camera-based driver-safety system combining drowsiness detection, crash detection, GPS tracking, and emergency notifications.
+
+**Focus:** Computer Vision · Edge AI · Embedded Systems · Safety
+
+</td>
+
+<td width="50%">
+
+### 🦾 DUM-E
+
+**Vision-Driven Robotics**
+
+A robotics project exploring computer vision, gesture control, inverse kinematics, simulation, and human–robot interaction.
+
+**Focus:** Robotics · Vision · Gesture Control · IK
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## `> HOW_I_BUILD`
-
-```text
-OBSERVE
-   ↓
-UNDERSTAND
-   ↓
-PROTOTYPE
-   ↓
-TEST
-   ↓
-ITERATE
-   ↓
-BUILD BETTER
-```
-
-I prefer **project-based learning** — learn something when a project demands it, build it, break it, understand why, and rebuild it better.
-
----
-
-## `> AVATAR`
-
-> **More than a tool. A partner.**
-
-Avatar is the long-term ecosystem I'm building around intelligent software agents.
-
-The goal isn't simply to make another chatbot.
-
-It's to build systems that can **understand context, use tools, interact with computers and devices, maintain useful memory, and eventually bridge the gap between AI and the physical world.**
-
----
-
-## `> WHAT'S_NEXT`
-
-```text
-AI AGENTS        ████████████████████
-ROBOTICS         ███████████████░░░░░
-COMPUTER VISION  █████████████████░░░
-AUTOMATION       ██████████████████░░
-REAL-WORLD AI    ████████████░░░░░░░░
-```
-
-**Build. Explore. Learn. Iterate.**
-
----
-
-## `> LET'S_BUILD`
-
-I'm open to collaborating on interesting projects involving:
-
-`AI` · `Automation` · `Robotics` · `IoT` · `Open Source`
-
-If you're building something ambitious, **let's talk.**
-
-<br>
+# `> AVATAR`
 
 <div align="center">
 
-### `A MORE INTELLIGENT TOMORROW IS A BUILD AWAY.`
-
-**— GK**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Granthkoushik&style=flat-square&color=0ea5e9&label=PROFILE+VISITS" alt="Profile views">
+### **MORE THAN A TOOL. A PARTNER.**
 
 </div>
+
+Avatar is the long-term AI ecosystem I'm building.
+
+The idea goes beyond a traditional chatbot.
+
+Avatar is being designed around the ability to:
+
+```text
+SEE
+ ↓
+UNDERSTAND
+ ↓
+REASON
+ ↓
+ACT
+ ↓
+REMEMBER
+ ↓
+LEARN

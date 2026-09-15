@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./image.svg" width="100%" alt="Granth Koushik — Building Intelligent Systems">
-
+<img src="./assets/image.svg" width="100%" alt="Granth Koushik — Building Intelligent Systems">
 <br><br>
 
 # GRANTH KOUSHIK

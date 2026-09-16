@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://granthkoushik.github.io/Granthkoushik/">
-  <img src="./assets/hero.svg" width="100%" alt="Granth Koushik — Intelligent Systems">
+  <img src="./assets/profile.svg" width="100%" alt="Granth Koushik — Intelligent Systems">
 </a>
 
 <br><br>
